@@ -20,11 +20,11 @@ Note: Le jeu s'adapte de win32 à unix/cigwin, cependant ce dernier aura des tex
 
 ### Présentation du jeu
 
-Notre jeu se base sur Cut The Rope, un jeu Android/IOS créer par ZeptoLab. Le principe est simple faire manger un objet (un bonbon dans le jeu d'origine et un hamburger dans le notre) à un dinosaure (ici Marcus).
+Notre jeu se base sur Cut The Rope, un jeu Android/IOS crée par ZeptoLab. Le principe est simple faire manger un objet (un bonbon dans le jeu d'origine et un hamburger dans le notre) à un dinosaure (ici Marcus).
 
 ![This is an image](https://github.com/Adem-hub/ProjetOcaml/blob/620776c732366b00c2d4711826739d8bb7124e26/Captures%20du%20jeu/Welcome.PNG)
 
-Lors du lancement du jeu, vous deverez attendre un chargement d'environ 1/1.5 minutes, cependant pas d'inquiètude vous pourrez soit vous laisser emporter par le récit de Marcus afin d'en apprendre plus sur la back-story de jeu, ou bien jouer au mini-jeu proposé (ce dernier ce jouant avec les touches 'a' pour aller à gauche et 'e' pour aller à droite et dont le but est de manger le plus de hamburger possible, notre record est de 23). On notera que cela reste un mini-jeu et le chargement prime sur ce dernier, ainsi il freeze en fin de chargement d'un fichier.
+Lors du lancement du jeu, vous devrez attendre un chargement d'environ 1/1.5 minutes, cependant pas d'inquiètude vous pourrez soit vous laisser emporter par le récit de Marcus afin d'en apprendre plus sur la back-story de jeu, ou bien jouer au mini-jeu proposé (ce dernier ce jouant avec les touches 'a' pour aller à gauche et 'e' pour aller à droite et dont le but est de manger le plus de hamburger possible, notre record est de 23). On notera que cela reste un mini-jeu et le chargement prime sur ce dernier, ainsi il freeze en fin de chargement d'un fichier.
 
 ![This is an image](https://github.com/Adem-hub/ProjetOcaml/blob/9cb564be4db2ccb528b6bd9d0445db36bb4f2106/Captures%20du%20jeu/Chargement.PNG)
 
